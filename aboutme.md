@@ -6,9 +6,10 @@ subtitle: Why you'd want to hire me
 
 My name is Moonsun Jeon. I have the following qualities:
 
-- I have an awesome boyfriend, Taewoo.
-- Taewoo likes soccer, Kiyong, and minions.
-- Personally I think I'm cuter than minions. 
+- I am a Ph.D. Student at Michigan State University. 
+- 
+
+
 
 What else do you need?
 

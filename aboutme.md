@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to hire me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Moonsun Jeon. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I have an awesome boyfriend, Taewoo.
+- Taewoo likes soccer, Kiyong, and minions.
+- Personally I think I'm cuter than minions. 
 
 What else do you need?
 
